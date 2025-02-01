@@ -1,0 +1,20 @@
+The following list presents the book collection that our bookstore offers.
+The data are formatted as follows:
+title of book|author|genre|characteristic 1|characteristic 2|price(in US $).
+(characteristics are genre-specific characteristics such as scientific accuracy in Sci-fi novels, or the level of drama in a romance novel)
+
+1984|George Orwell|Science fiction|60|80|14.99
+Brave new world|Aldous Huxley|Science fiction|90|90|20.00
+Frankenstein|Mary Shelley|Science fiction|50|70|17.00
+A Game of Thrones|George R. R. Martin|Fantasy|90|100|30.00
+Dracula|Bram Stoker|Fantasy|70|80|25.00
+The Lord of the Rings|J. R. R. Tolkien|Fantasy|90|80|12.00
+Fifty Shades of Grey|E. L. James|Romance|50|100|20.00
+Pride and Prejudice|Jane Austen|Romance|80|60|18.50
+The Notebook|Nicholas Sparks|Romance|90|70|16.99
+Messi: The Biography|Guillem Balague|Biography|100|60|19.99
+Undisputed Truth|Mike Tyson|Biography|50|60|25.99
+Will|Will Smith|Biography|70|70|23.99
+Europe: A History|Norman Davies|Encyclopedia|70|60|25.70
+Battles that Changed History|Smithsonian Institution|Encyclopedia|70|80|22.80
+The Encyclopedia of Science|James Trefil|Encyclopedia|80|80|35.50
